@@ -10,7 +10,6 @@ HTML: The structure of the page was built with semantic HTML, ensuring that the 
 CSS/SCSS: SCSS was used to create a clean and maintainable stylesheet, leveraging features like variables, nesting, and mixins to streamline the styling process.
 
 BEM (Block Element Modifier): The BEM methodology was applied to keep the codebase modular and easy to understand, allowing for consistent naming conventions and reusable components.
-JavaScript: JavaScript was used to add interactivity to the page, such as dynamic content loading, animations, and user interaction handling.
 
 Key Features:
 Responsive Design: The landing page is fully responsive, providing an optimal viewing experience across a range of devices, from desktops to mobile phones.
